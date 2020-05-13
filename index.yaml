@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  cn-series:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-05-13T15:42:55.865081-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 2db50009f44a7cbe4074530c5890ec65efb9087efc06e3eca67be70b0e04c231
+    name: cn-series
+    type: application
+    urls:
+    - https://stealthllama.github.io/helm-charts/cn-series-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-05-13T15:42:55.860862-04:00"
