@@ -9,6 +9,6 @@ entries:
     name: cn-series
     type: application
     urls:
-    - https://stealthllama.github.io/helm-charts/cn-series-0.1.0.tgz
+    - https://stealthllama.github.io/cn-series-helm/cn-series-0.1.0.tgz
     version: 0.1.0
 generated: "2020-05-13T15:42:55.860862-04:00"
